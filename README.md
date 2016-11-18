@@ -1,6 +1,6 @@
 # PhoenixChatup
 
-## A chat server using Elixir and the Phoenix web framework 
+## A chat server using Elixir and the Phoenix web framework. Inspired through this tutorial: http://blog.distortedthinking.agency/articles/phoenix-framework-building-a-chat-server-in-15-minutes/ 
 
 To start your Phoenix app:
 
